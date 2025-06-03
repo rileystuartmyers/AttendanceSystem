@@ -4,7 +4,7 @@
   <img src = "https://github.com/rileystuartmyers/AttendanceSystem/blob/469e643335efd94f8a6dfe8ca352a41afd285d7e/git_images/Screenshot%202025-06-03%20142901.png">
 </p>
 
-This project was created through the reference of a tutorial found on Youtube: <a href = "https://www.youtube.com/watch?v=Ck3cKCGevlM&t=3578s"><b>Link to tutorial made by H-educate</b></a>
+This project was created through the reference of a tutorial found on Youtube: <a href = "https://www.youtube.com/watch?v=Ck3cKCGevlM"><b>Link to tutorial made by H-educate</b></a>
 
 # The program is guarded by a login form, in which the user enters their credentials held by the SQL server.
 
