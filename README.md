@@ -8,7 +8,7 @@ This project was created through the reference of a tutorial found on Youtube: <
 
 # The program is guarded by a login form, in which the user enters their credentials held by the SQL server.
 
-<p hover = "center">
+<p hover = center>
   <img src = "https://github.com/rileystuartmyers/AttendanceSystem/blob/469e643335efd94f8a6dfe8ca352a41afd285d7e/git_images/Screenshot%202025-06-03%20142854.png">
 </p>
 
