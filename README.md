@@ -1,6 +1,6 @@
 # Attendance System SQL Backend Created in C#.
 
-<p hover = "center">
+<p hover = center>
   <img src = "https://github.com/rileystuartmyers/AttendanceSystem/blob/469e643335efd94f8a6dfe8ca352a41afd285d7e/git_images/Screenshot%202025-06-03%20142901.png">
 </p>
 
